@@ -5,6 +5,14 @@
   <a href="https://www.linkedin.com/in/gabriel-silva-avila-53b60b270/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/gabriielavv_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@pocoyossj_" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="40" />
+  </a>
 </p>
 
 <p align="center">

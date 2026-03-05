@@ -19,7 +19,7 @@
   Desarrollador Full Stack orientado a la arquitectura de ecosistemas escalables y automatización de procesos de negocio.<br><br>
   <span>💼 Trabajando actualmente en:</span><br>
   <a href="https://quartogaleria.com.mx/" target="_blank">
-    <img src="assets/logoqg.png" alt="Quarto Galería" height="50" style="margin-top: 10px;" />
+    <img src="assets/logoqg.png" alt="Quarto Galería" height="50" style="margin-top: 10px;" background="white"/>
   </a>
 </p>
 

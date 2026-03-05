@@ -54,12 +54,3 @@
    </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielAv0301&show_icons=true&theme=tokyonight" alt="Estadísticas de Gabriel" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAv0301&layout=compact&theme=tokyonight" alt="Lenguajes principales" width="48%" />
-</p>
-
----
